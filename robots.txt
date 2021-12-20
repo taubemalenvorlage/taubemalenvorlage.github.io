@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://taubemalenvorlage.github.io/sitemap.xml
